@@ -1,0 +1,1 @@
+CI(prod): remover auto-approve action: use environment-protected deploy job
